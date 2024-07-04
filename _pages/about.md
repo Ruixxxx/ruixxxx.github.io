@@ -41,7 +41,7 @@ I will be a postdoctoral researcher at the Department of Computer Science and En
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/ACM TCBB 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SGDA: Towards 3D Universal Pulmonary Nodule Detection via Slice Grouped Domain Attention](https://arxiv.org/abs/2303.03625))
+[SGDA: Towards 3D Universal Pulmonary Nodule Detection via Slice Grouped Domain Attention](https://arxiv.org/abs/2303.03625)
 
 **Rui Xu**, Zhi Liu, Yong Luo, Han Hu, Li Shen, Bo Du, Kaiming Kuang, and Jiancheng Yang
 
