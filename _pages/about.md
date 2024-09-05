@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I will be a postdoctoral researcher at the Department of Computer Science and Engineering, The Hong Kong University of Science and Technology (HKUST), Hong Kong, China, in August, advised by Prof. Hao Chen. I obtained my Ph.D. degree from the School of Computer Science, Wuhan University, Wuhan, China, supervised by Prof. Yong Luo and Prof. Bo Du. My research interests include computer vision and machine learning.
+I am a postdoctoral researcher at the Department of Computer Science and Engineering, The Hong Kong University of Science and Technology (HKUST), advised by Prof. Hao Chen. I obtained my Ph.D. degree from the School of Computer Science, Wuhan University (WHU), supervised by Prof. Yong Luo and Prof. Bo Du. My research interests include computer vision and machine learning.
 
 
 <!--# 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/WEND.png' alt="sym" style="width: 500px; height: 200px; object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Rethinking the Localization in Weakly Supervised Object Localization](https://arxiv.org/abs/2308.06161)
@@ -38,7 +38,7 @@ I will be a postdoctoral researcher at the Department of Computer Science and En
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/ACM TCBB 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/ACM TCBB 2023</div><img src='images/SGDA.png' alt="sym" style="width: 500px; height: 200px; object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SGDA: Towards 3D Universal Pulmonary Nodule Detection via Slice Grouped Domain Attention](https://arxiv.org/abs/2303.03625)
@@ -50,7 +50,7 @@ I will be a postdoctoral researcher at the Department of Computer Science and En
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/LSSANet.png' alt="sym" style="width: 500px; height: 200px; object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LSSANet: A Long Short Slice-Aware Network for Pulmonary Nodule Detection](https://arxiv.org/abs/2208.02122)
@@ -81,4 +81,4 @@ I will be a postdoctoral researcher at the Department of Computer Science and En
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 # 💻 Experience
-- MICCAI 2022 MELA Challenge: Mediastinal Lesion Analysis (3D Detection) [[Link](https://mela.grand-challenge.org/)]
+- MICCAI 2022 MELA Challenge: Mediastinal Lesion Analysis (3D Detection) [[Link](https://mela.grand-challenge.org/)] (Organizer)
